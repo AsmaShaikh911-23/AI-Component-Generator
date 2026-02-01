@@ -1,0 +1,2 @@
+- [x] Update App.css: Change .sp-text gradient to blue shades
+- [x] Update Home.jsx: Replace all purple Tailwind classes with blue equivalents
